@@ -24,3 +24,12 @@ output.png
 CMakeUserPresets.json
 out/
 /cmake-gen.bat
+**/bin/
+**/bin-int/
+Intermediates
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+bin/
+bin-int/
